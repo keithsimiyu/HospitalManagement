@@ -3,5 +3,6 @@ public class Git {
 
     private int num;
     private double salary;
+    private String address;
 
 }
